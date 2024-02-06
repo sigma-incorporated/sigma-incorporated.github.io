@@ -5,7 +5,7 @@ updated = 2020-03-15
 description = "my starting experience with the zola static page generator"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac justo dolor. Praesent dictum metus non augue finibus, in consequat ante venenatis. Duis volutpat augue sit amet lectus gravida imperdiet. Nunc eu magna sed nulla scelerisque tristique.
+Lqawdorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac justo dolor. Praesent dictum metus non augue finibus, in consequat ante venenatis. Duis volutpat augue sit amet lectus gravida imperdiet. Nunc eu magna sed nulla scelerisque tristique.
 
 ![](https://source.unsplash.com/weekly?water)
 *the unsplash weekly water image*
